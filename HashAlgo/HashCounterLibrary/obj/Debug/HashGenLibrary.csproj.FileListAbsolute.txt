@@ -1,0 +1,14 @@
+C:\Users\Sasha\documents\visual studio 2012\Projects\HashAlgo\HashCounterLibrary\bin\Debug\HashCounterLibrary.dll
+C:\Users\Sasha\documents\visual studio 2012\Projects\HashAlgo\HashCounterLibrary\bin\Debug\HashCounterLibrary.pdb
+C:\Users\Sasha\documents\visual studio 2012\Projects\HashAlgo\HashCounterLibrary\obj\Debug\HashGenLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\documents\visual studio 2012\Projects\HashAlgo\HashCounterLibrary\obj\Debug\HashCounterLibrary.dll
+C:\Users\Sasha\documents\visual studio 2012\Projects\HashAlgo\HashCounterLibrary\obj\Debug\HashCounterLibrary.pdb
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\HashAlgo\HashCounterLibrary\bin\Debug\SsdeepNET.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\HashAlgo\HashCounterLibrary\bin\Debug\SsdeepNET.pdb
+C:\Users\Alexander\Desktop\диплом\HashAlgo\HashCounterLibrary\bin\Debug\HashCounterLibrary.dll
+C:\Users\Alexander\Desktop\диплом\HashAlgo\HashCounterLibrary\bin\Debug\HashCounterLibrary.pdb
+C:\Users\Alexander\Desktop\диплом\HashAlgo\HashCounterLibrary\bin\Debug\SsdeepNET.dll
+C:\Users\Alexander\Desktop\диплом\HashAlgo\HashCounterLibrary\bin\Debug\SsdeepNET.pdb
+C:\Users\Alexander\Desktop\диплом\HashAlgo\HashCounterLibrary\obj\Debug\HashGenLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\диплом\HashAlgo\HashCounterLibrary\obj\Debug\HashCounterLibrary.dll
+C:\Users\Alexander\Desktop\диплом\HashAlgo\HashCounterLibrary\obj\Debug\HashCounterLibrary.pdb

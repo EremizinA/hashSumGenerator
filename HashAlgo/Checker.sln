@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyScanner", "HashAlgo\MyScanner.csproj", "{8457DF48-93FC-43AA-99E7-22AF28D85EDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashGenLibrary", "HashCounterLibrary\HashGenLibrary.csproj", "{6E7359D0-D239-4E33-9106-FA9B0F4EA8B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SsdeepNET", "..\SsdeepNET\SsdeepNET\SsdeepNET.csproj", "{1030CAAE-0AC1-44DA-AAD9-9A48A954681C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8457DF48-93FC-43AA-99E7-22AF28D85EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8457DF48-93FC-43AA-99E7-22AF28D85EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8457DF48-93FC-43AA-99E7-22AF28D85EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8457DF48-93FC-43AA-99E7-22AF28D85EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E7359D0-D239-4E33-9106-FA9B0F4EA8B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E7359D0-D239-4E33-9106-FA9B0F4EA8B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E7359D0-D239-4E33-9106-FA9B0F4EA8B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E7359D0-D239-4E33-9106-FA9B0F4EA8B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1030CAAE-0AC1-44DA-AAD9-9A48A954681C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1030CAAE-0AC1-44DA-AAD9-9A48A954681C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1030CAAE-0AC1-44DA-AAD9-9A48A954681C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1030CAAE-0AC1-44DA-AAD9-9A48A954681C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

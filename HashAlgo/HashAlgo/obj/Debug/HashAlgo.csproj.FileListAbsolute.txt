@@ -1,0 +1,6 @@
+c:\users\sasha\documents\visual studio 2012\Projects\HashAlgo\HashAlgo\bin\Debug\HashAlgo.exe.config
+c:\users\sasha\documents\visual studio 2012\Projects\HashAlgo\HashAlgo\bin\Debug\HashAlgo.exe
+c:\users\sasha\documents\visual studio 2012\Projects\HashAlgo\HashAlgo\bin\Debug\HashAlgo.pdb
+c:\users\sasha\documents\visual studio 2012\Projects\HashAlgo\HashAlgo\obj\Debug\HashAlgo.csprojResolveAssemblyReference.cache
+c:\users\sasha\documents\visual studio 2012\Projects\HashAlgo\HashAlgo\obj\Debug\HashAlgo.exe
+c:\users\sasha\documents\visual studio 2012\Projects\HashAlgo\HashAlgo\obj\Debug\HashAlgo.pdb

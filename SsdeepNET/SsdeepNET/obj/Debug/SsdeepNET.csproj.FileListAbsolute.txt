@@ -1,0 +1,12 @@
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\SsdeepNET\SsdeepNET\bin\Debug\SsdeepNET.dll.config
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\SsdeepNET\SsdeepNET\bin\Debug\SsdeepNET.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\SsdeepNET\SsdeepNET\bin\Debug\SsdeepNET.pdb
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\SsdeepNET\SsdeepNET\obj\Debug\SsdeepNET.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\SsdeepNET\SsdeepNET\obj\Debug\SsdeepNET.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\SsdeepNET\SsdeepNET\obj\Debug\SsdeepNET.pdb
+C:\Users\Alexander\Desktop\диплом\SsdeepNET\SsdeepNET\bin\Debug\SsdeepNET.dll.config
+C:\Users\Alexander\Desktop\диплом\SsdeepNET\SsdeepNET\bin\Debug\SsdeepNET.dll
+C:\Users\Alexander\Desktop\диплом\SsdeepNET\SsdeepNET\bin\Debug\SsdeepNET.pdb
+C:\Users\Alexander\Desktop\диплом\SsdeepNET\SsdeepNET\obj\Debug\SsdeepNET.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\диплом\SsdeepNET\SsdeepNET\obj\Debug\SsdeepNET.dll
+C:\Users\Alexander\Desktop\диплом\SsdeepNET\SsdeepNET\obj\Debug\SsdeepNET.pdb

@@ -1,0 +1,20 @@
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\HashAlgo\HashAlgo\bin\Debug\HashAlgo.exe.config
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\HashAlgo\HashAlgo\bin\Debug\HashAlgo.exe
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\HashAlgo\HashAlgo\bin\Debug\HashAlgo.pdb
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\HashAlgo\HashAlgo\bin\Debug\HashCounterLibrary.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\HashAlgo\HashAlgo\bin\Debug\HashCounterLibrary.pdb
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\HashAlgo\HashAlgo\obj\Debug\MyScanner.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\HashAlgo\HashAlgo\obj\Debug\HashAlgo.exe
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\HashAlgo\HashAlgo\obj\Debug\HashAlgo.pdb
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\HashAlgo\HashAlgo\bin\Debug\SsdeepNET.dll
+C:\Users\Sasha\Documents\Visual Studio 2012\Projects\HashAlgo\HashAlgo\bin\Debug\SsdeepNET.pdb
+C:\Users\Alexander\Desktop\диплом\HashAlgo\HashAlgo\bin\Debug\HashAlgo.exe.config
+C:\Users\Alexander\Desktop\диплом\HashAlgo\HashAlgo\obj\Debug\HashAlgo.exe
+C:\Users\Alexander\Desktop\диплом\HashAlgo\HashAlgo\obj\Debug\HashAlgo.pdb
+C:\Users\Alexander\Desktop\диплом\HashAlgo\HashAlgo\bin\Debug\HashAlgo.exe
+C:\Users\Alexander\Desktop\диплом\HashAlgo\HashAlgo\bin\Debug\HashAlgo.pdb
+C:\Users\Alexander\Desktop\диплом\HashAlgo\HashAlgo\bin\Debug\HashCounterLibrary.dll
+C:\Users\Alexander\Desktop\диплом\HashAlgo\HashAlgo\bin\Debug\SsdeepNET.dll
+C:\Users\Alexander\Desktop\диплом\HashAlgo\HashAlgo\bin\Debug\SsdeepNET.pdb
+C:\Users\Alexander\Desktop\диплом\HashAlgo\HashAlgo\bin\Debug\HashCounterLibrary.pdb
+C:\Users\Alexander\Desktop\диплом\HashAlgo\HashAlgo\obj\Debug\MyScanner.csprojResolveAssemblyReference.cache
